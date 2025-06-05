@@ -22,7 +22,7 @@ Let’s break down key benefits:
 - **Automated tool compatibility:** Tools like `pytest` and CI/CD rely on naming conventions for discovering and running your tests automatically. Organization ensures your tests are not skipped by mistake.
 - **Simplified scaling:** A well-structured suite means adding new tests or test types is straightforward, and you’re less likely to disrupt existing coverage.
 
-### Relatable example
+### Example
 
 If you inherit a project and see this structure:
 

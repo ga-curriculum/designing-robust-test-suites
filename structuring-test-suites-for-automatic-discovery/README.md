@@ -148,7 +148,10 @@ testpaths = tests
 norecursedirs = .git venv legacy
 ```
 
-# Hands-On Activity: Refactor a Disorganized Test Suite
+<div class="activity group-exercise">
+  <h2 class="title">Refactor a Disorganized Test Suite</h2>
+  <span class="minutes">20 min</span>
+</div>
 
 ## Goal
 

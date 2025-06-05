@@ -171,16 +171,16 @@ Parameterization helps you quickly check similar logic across several data point
   <span class="minutes">10 min</span>
 </div>
 
-You’ve been given a messy FastAPI test suite full of placeholder tests. The tests all pass, but their names suggest what real functionality might eventually live inside them.
+You’ve been given a FastAPI test suite full of placeholder tests. The tests all pass, but their names suggest what real functionality might eventually live inside them.
 
 Imagine you’re preparing this codebase for real development—where duplication and setup complexity will grow.
 
 Let’s look at these test names:
 
-- test_user_can_register_and_login
-- test_checkout_flow_shows_order_confirmation
-- test_database_returns_correct_order_history
-- test_get_user_profile_route_returns_expected_fields
+- `test_user_can_register_and_login`
+- `test_checkout_flow_shows_order_confirmation`
+- `test_database_returns_correct_order_history`
+- `test_get_user_profile_route_returns_expected_fields`
 
 1. What kinds of shared setup might these need?
 2. Would any of these tests require:
