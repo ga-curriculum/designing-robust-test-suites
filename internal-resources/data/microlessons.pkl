@@ -9,23 +9,31 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+testOrganizationAndProjectHealth = new Template.Microlesson {
+  friendlyName = "Test Organization and Project Health"
+  dirName = "test-organization-and-project-health"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+structuringTestSuitesForAutomaticDiscovery = new Template.Microlesson {
+  friendlyName = "Structuring Test Suites for Automatic Discovery"
+  dirName = "structuring-test-suites-for-automatic-discovery"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+isolatingDifferentTestTypes = new Template.Microlesson {
+  friendlyName = "Isolating Different Test Types"
+  dirName = "isolating-different-test-types"
   type = "Content"
   videoUrl = ""
 }
+
+reducingDuplicationInTestSuites = new Template.Microlesson {
+  friendlyName = "Reducing Duplication in Test Suites"
+  dirName = "reducing-duplication-in-test-suites"
+  type = "Content"
+  videoUrl = ""
+}
+
