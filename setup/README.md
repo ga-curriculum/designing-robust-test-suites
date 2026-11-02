@@ -33,7 +33,7 @@ This codebase includes real test shells with comments, but test names, folder st
 
 ## Using the Starter code
 
-1. **Clone this starter code repo:** [Designing Robust Test Suites - Starter Code](https://git.generalassemb.ly/modular-curriculum-all-courses/designing-robust-test-suites-starter-code).
+1. **Clone this starter code repo:** [Designing Robust Test Suites - Starter Code](https://github.com/ga-curriculum/designing-robust-test-suites-starter-code).
 2. `cd` into the `fastapi-app` folder
 3. **Review the `tests/` folder.** You’ll notice test types are mixed and some test files are poorly named.
 4. Don’t change anything yet. You’ll restructure and organize this test suite in the next lessons.
